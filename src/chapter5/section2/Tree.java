@@ -10,7 +10,7 @@ public class Tree {
 
     Tree(int initialHeight) {
         height = initialHeight;
-        System.out.println("Creating new Tree that is" + height + " feet tall");
+        System.out.println("Creating new Tree that is " + height + " feet tall");
     }
 
     void info() {
